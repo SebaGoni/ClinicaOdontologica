@@ -1,0 +1,408 @@
+[2023-06-30 16:14:14] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->No se encontró un paciente con el ID: 1
+[2023-06-30 17:42:56] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Odontologo no encontrado
+[2023-06-30 19:47:59] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un paciente con el mismo dni
+[2023-06-30 19:48:15] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un paciente con el mismo dni
+[2023-06-30 19:50:01] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->No se encontró un odontólogo con el ID: 1
+[2023-06-30 19:51:02] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Odontologo no encontrado
+[2023-06-30 19:52:19] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-06-30 20:04:43] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede eliminar un odontologo con turno asignado
+[2023-06-30 21:53:01] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-06-30 21:53:26] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo numeros
+[2023-06-30 21:53:48] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo numeros
+[2023-06-30 21:55:48] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni no puede ser negativo
+[2023-06-30 21:55:56] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni no puede ser negativo
+[2023-06-30 21:56:14] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-06-30 21:57:25] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-06-30 22:08:03] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-06-30 22:08:29] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-06-30 22:08:41] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-06-30 23:26:21] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-06-30 23:26:40] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-06-30 23:28:15] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-06-30 23:35:17] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-06-30 23:41:57] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-06-30 23:52:10] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-07-01 00:20:35] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni no puede ser negativo
+[2023-07-01 00:20:42] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-07-01 00:20:52] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha de alta debe ser igual o posterior a la fecha actual
+[2023-07-01 00:21:02] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La provincia es obligatoria
+[2023-07-01 00:21:14] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-07-01 00:33:53] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-01 00:34:12] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-01 00:34:16] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-01 00:34:29] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-01 00:34:33] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-01 00:37:38] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No puede incluir el id. Se genera automaticamente
+[2023-07-01 00:37:47] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-01 00:38:17] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-01 00:52:09] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-01 00:52:49] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-01 00:53:00] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-01 00:53:13] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado al odontólogo 1 el mismo día a la misma hora
+[2023-07-01 01:00:17] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-03. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-01 01:00:43] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-01 01:07:11] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-01 01:07:18] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-01 01:07:30] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-01 01:07:56] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-01 01:08:11] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-06. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-01 16:41:56] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Odontologo no encontrado
+[2023-07-01 16:42:26] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matrícula no puede ser 0 o negativa
+[2023-07-01 16:42:35] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matrícula no puede ser 0 o negativa
+[2023-07-01 16:43:12] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-01 16:43:21] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha de alta debe ser igual o posterior a la fecha actual
+[2023-07-01 16:43:33] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-07-01 16:44:40] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 16:44:51] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 16:45:10] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-01 16:45:21] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-01 16:45:32] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-01 16:45:56] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede eliminar un odontologo con turno asignado
+[2023-07-01 16:46:14] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un odontólogo con la misma matrícula
+[2023-07-01 16:46:30] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un odontólogo con la misma matrícula
+[2023-07-01 16:48:11] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-01 16:48:23] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-03. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-01 16:48:49] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede eliminar un odontologo con turno asignado
+[2023-07-01 16:49:00] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede eliminar un paciente con turno asignado
+[2023-07-01 17:01:38] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Odontologo no encontrado
+[2023-07-01 17:02:19] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 17:02:36] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-01 17:02:56] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-01 17:03:09] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-01 17:03:19] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-03. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-01 17:03:55] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-04. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-01 17:04:54] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede eliminar un odontologo con turno asignado
+[2023-07-01 17:05:24] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un odontólogo con la misma matrícula
+[2023-07-01 17:05:34] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matrícula no puede ser 0 o negativa
+[2023-07-01 17:06:14] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede eliminar un paciente con turno asignado
+[2023-07-01 17:06:29] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-01 17:06:45] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-07-01 17:07:36] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha de alta debe ser igual o posterior a la fecha actual
+[2023-07-01 17:14:51] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-01 19:43:13] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El ID del paciente es obligatorio
+[2023-07-01 19:43:35] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El ID del domicilio es obligatorio
+[2023-07-01 19:44:00] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un paciente con el mismo DNI
+[2023-07-01 20:04:14] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un paciente con el mismo dni
+[2023-07-01 20:04:37] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El ID del domicilio es obligatorio
+[2023-07-01 20:05:44] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 20:06:05] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El ID del paciente es obligatorio
+[2023-07-01 20:06:11] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un paciente con el mismo dni
+[2023-07-01 20:06:35] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe otro paciente con el mismo DNI
+[2023-07-01 20:07:02] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha de alta debe ser igual o posterior a la fecha actual
+[2023-07-01 20:07:11] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre debe tener entre 3 y 50 letras
+[2023-07-01 20:07:20] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-01 20:07:39] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La calle es obligatoria
+[2023-07-01 20:07:47] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nro de calle es obligatorio
+[2023-07-01 20:16:18] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El ID del paciente es obligatorio
+[2023-07-01 20:16:26] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El ID del domicilio es obligatorio
+[2023-07-01 20:16:37] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 20:16:45] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Domicilio no encontrado
+[2023-07-01 20:20:06] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un paciente con el mismo dni
+[2023-07-01 20:59:42] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Odontologo no encontrado
+[2023-07-01 21:00:39] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha de alta debe ser igual o posterior a la fecha actual
+[2023-07-01 21:00:59] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-01 21:01:07] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-07-01 21:01:19] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre debe tener entre 3 y 50 letras
+[2023-07-01 21:01:35] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido debe tener entre 3 y 50 letras
+[2023-07-01 21:15:08] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un paciente con el mismo dni
+[2023-07-01 21:16:44] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matrícula no puede ser 0 o negativa
+[2023-07-01 21:17:08] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un odontólogo con la misma matrícula
+[2023-07-01 21:18:19] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Odontologo no encontrado
+[2023-07-01 21:18:58] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Odontologo no encontrado
+[2023-07-01 21:19:06] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-01 21:19:14] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-01 21:19:22] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-01 22:21:57] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El ID es obligatorio
+[2023-07-01 22:22:09] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 22:22:24] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 22:22:32] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 22:23:05] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 22:24:50] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 22:25:03] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 22:25:26] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 22:34:28] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 22:41:33] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 22:41:48] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 22:42:58] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 22:48:43] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 22:49:20] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 22:51:33] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 22:51:53] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 22:51:57] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 22:53:06] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 22:53:51] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 23:00:22] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 23:03:22] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 23:05:50] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Odontologo no encontrado
+[2023-07-01 23:07:14] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 23:10:06] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 23:12:45] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 23:21:48] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 23:23:42] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 23:26:19] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 23:26:38] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 23:40:04] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 23:40:14] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Odontologo no encontrado
+[2023-07-01 23:40:25] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El ID es obligatorio
+[2023-07-01 23:40:39] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-01 23:41:04] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-01 23:41:12] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-01 23:42:31] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-01 23:43:07] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-01 23:43:35] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-01 23:47:09] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No puede incluir el ID. Se genera automáticamente
+[2023-07-01 23:47:14] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-01 23:50:46] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-12. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-01 23:51:44] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-01 23:51:55] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-01 23:52:01] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-13. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-01 23:52:07] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-01 23:52:13] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-13. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-01 23:54:20] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-01 23:54:36] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-01 23:55:07] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-01 23:55:49] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-02 00:15:01] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-02 00:15:11] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-02 00:15:23] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-02 00:15:41] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No puede incluir el ID. Se genera automáticamente
+[2023-07-02 00:15:57] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-02 00:16:17] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-02 00:16:32] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->No se encontró el odontólogo
+[2023-07-02 00:16:41] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->No se encontró el paciente
+[2023-07-02 00:16:47] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-02 00:17:04] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un paciente con el mismo dni
+[2023-07-02 00:17:47] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-11. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 00:23:19] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno con el odontologo el mismo día a la misma hora
+[2023-07-02 00:23:45] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-02 00:24:00] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-02 00:24:08] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-02 00:24:15] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-02 00:24:59] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-02 00:25:10] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-02 00:25:21] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-02 00:25:31] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-02 00:25:36] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-02 00:26:04] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-02 00:29:08] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-02 00:29:20] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado al odontólogo 1 el mismo día a la misma hora
+[2023-07-02 00:29:36] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-03. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 00:30:01] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-03. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 00:30:07] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-02 00:30:15] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-02 00:30:24] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No puede incluir el ID. Se genera automáticamente
+[2023-07-02 00:30:30] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-02 00:31:13] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-02 00:31:18] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-02 00:32:13] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-04. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 00:32:32] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->No existe un turno con ID 3
+[2023-07-02 00:32:39] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-04. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 00:34:26] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno con el odontologo el mismo día a la misma hora
+[2023-07-02 00:38:16] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matrícula no puede ser 0 o negativa
+[2023-07-02 00:38:53] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un odontólogo con la misma matrícula
+[2023-07-02 00:40:01] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-02 00:40:09] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-07-02 00:40:37] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha de alta debe ser igual o posterior a la fecha actual
+[2023-07-02 00:41:26] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-02 00:41:55] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Odontologo no encontrado
+[2023-07-02 00:42:05] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-02 00:42:20] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-02 00:42:31] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-02 00:43:28] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-05. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 00:43:47] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-02 00:43:57] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-05. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 00:44:13] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede eliminar un odontologo con turno asignado
+[2023-07-02 12:58:17] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matrícula no puede ser 0 o negativa
+[2023-07-02 13:01:14] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matricula es obligatoria
+[2023-07-02 13:01:20] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre es obligatorio
+[2023-07-02 13:01:25] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido es obligatorio
+[2023-07-02 13:01:32] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre debe tener entre 3 y 50 letras
+[2023-07-02 13:01:47] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido debe tener entre 3 y 50 letras
+[2023-07-02 13:07:33] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matricula es obligatoria
+[2023-07-02 13:07:39] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matrícula no puede ser 0 o negativa
+[2023-07-02 13:07:43] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matrícula no puede ser 0 o negativa
+[2023-07-02 13:07:56] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre es obligatorio
+[2023-07-02 13:08:01] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre debe tener entre 3 y 50 letras
+[2023-07-02 13:08:09] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre no puede contener números ni caracteres especiales
+[2023-07-02 13:08:17] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre no puede contener números ni caracteres especiales
+[2023-07-02 13:08:26] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido no puede contener números ni caracteres especiales
+[2023-07-02 13:08:31] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido no puede contener números ni caracteres especiales
+[2023-07-02 13:08:35] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido debe tener entre 3 y 50 letras
+[2023-07-02 13:10:04] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matrícula no puede ser 0 o negativa
+[2023-07-02 13:10:09] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido debe tener entre 3 y 50 letras
+[2023-07-02 13:10:13] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre debe tener entre 3 y 50 letras
+[2023-07-02 13:10:19] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre no puede contener números ni caracteres especiales
+[2023-07-02 13:12:53] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-02 13:14:13] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matricula es obligatoria
+[2023-07-02 13:16:13] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-02 13:17:31] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-02 13:20:20] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-02 13:20:27] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre es obligatorio
+[2023-07-02 13:23:50] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre es obligatorio
+[2023-07-02 13:23:58] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre debe tener entre 3 y 50 letras
+[2023-07-02 13:24:07] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre no puede contener números ni caracteres especiales
+[2023-07-02 13:24:15] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido es obligatorio
+[2023-07-02 13:24:21] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido debe tener entre 3 y 50 letras
+[2023-07-02 13:24:36] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido no puede contener números ni caracteres especiales
+[2023-07-02 13:24:44] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El DNI es obligatorio
+[2023-07-02 13:24:52] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La calle es obligatoria
+[2023-07-02 13:29:27] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre es obligatorio
+[2023-07-02 13:29:34] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre debe tener entre 3 y 50 letras
+[2023-07-02 13:29:48] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido debe tener entre 3 y 50 letras
+[2023-07-02 13:29:58] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El DNI es obligatorio
+[2023-07-02 13:30:03] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-07-02 13:30:16] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-02 13:30:29] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-02 13:30:51] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-02 13:32:24] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La calle es obligatoria
+[2023-07-02 13:32:31] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nro de calle es obligatorio
+[2023-07-02 13:32:38] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La localidad es obligatoria
+[2023-07-02 13:32:48] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La provincia es obligatoria
+[2023-07-02 13:35:16] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha de alta es obligatoria
+[2023-07-02 13:35:24] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha de alta debe ser igual o posterior a la fecha actual
+[2023-07-02 13:36:04] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-02 13:36:11] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-07-02 13:36:22] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-02 13:36:48] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre debe tener entre 3 y 50 letras
+[2023-07-02 13:37:45] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe otro paciente con el mismo DNI
+[2023-07-02 13:38:05] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha de alta debe ser igual o posterior a la fecha actual
+[2023-07-02 13:41:03] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre es obligatorio
+[2023-07-02 13:41:16] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido debe tener entre 3 y 50 letras
+[2023-07-02 13:41:27] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe otro paciente con el mismo DNI
+[2023-07-02 13:41:51] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha de alta es obligatoria
+[2023-07-02 13:41:59] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha de alta debe ser igual o posterior a la fecha actual
+[2023-07-02 13:42:12] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La calle es obligatoria
+[2023-07-02 13:42:20] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nro de calle es obligatorio
+[2023-07-02 13:42:28] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La localidad es obligatoria
+[2023-07-02 13:42:36] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La provincia es obligatoria
+[2023-07-02 13:43:04] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matricula es obligatoria
+[2023-07-02 13:43:15] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matrícula no puede ser 0 o negativa
+[2023-07-02 13:43:21] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido es obligatorio
+[2023-07-02 13:43:33] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre es obligatorio
+[2023-07-02 13:43:43] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido no puede contener números ni caracteres especiales
+[2023-07-02 13:44:12] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un odontólogo con la misma matrícula
+[2023-07-02 13:44:26] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un odontólogo con la misma matrícula
+[2023-07-02 13:45:14] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-02 13:45:41] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-02 13:45:49] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Odontologo no encontrado
+[2023-07-02 13:46:00] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-02 13:46:10] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-02 13:47:00] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-03. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 13:47:22] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-02 13:47:30] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-02 13:48:03] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-03. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 13:48:15] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-02 13:48:31] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede eliminar un paciente con turno asignado
+[2023-07-02 13:48:41] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede eliminar un odontologo con turno asignado
+[2023-07-02 13:49:02] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede eliminar un odontologo con turno asignado
+[2023-07-02 13:51:05] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Odontologo no encontrado
+[2023-07-02 13:52:33] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-02 13:52:44] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-02 13:54:00] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->No existe un turno con ID 1
+[2023-07-02 13:54:11] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->No existe un turno con ID 4
+[2023-07-02 13:54:30] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado al odontólogo 3 el mismo día a la misma hora
+[2023-07-02 13:56:45] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado al odontólogo 3 el mismo día a la misma hora
+[2023-07-02 13:57:32] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-04. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 14:01:37] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->No se encontró un paciente con el ID: 2
+[2023-07-02 14:02:28] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno con el odontologo el mismo día a la misma hora
+[2023-07-02 14:13:26] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado al odontólogo null, null el mismo día a la misma hora
+[2023-07-02 14:16:02] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado a este odontólogo el mismo día a la misma hora
+[2023-07-02 14:16:14] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-04. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 14:16:41] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El ID es obligatorio
+[2023-07-02 14:16:51] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-04. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 14:17:12] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-04. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 14:18:32] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-04. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 14:27:39] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-04. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 14:28:00] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-04. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 14:29:10] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No puede incluir el ID. Se genera automáticamente
+[2023-07-02 14:29:16] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado a este odontólogo el mismo día a la misma hora
+[2023-07-02 14:29:24] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-04. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 14:29:49] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-05. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 14:35:40] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado a este odontólogo el mismo día a la misma hora
+[2023-07-02 14:35:51] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-04. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 14:41:55] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-04. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 14:49:02] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-02 14:49:18] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-02 14:49:30] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un turno asignado para el 2023-07-05. El paciente no puede sacar dos turnos para el mismo dia
+[2023-07-02 14:50:01] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-02 14:50:11] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-02 14:50:42] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Odontologo no encontrado
+[2023-07-02 14:52:19] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede eliminar un paciente con turno asignado
+[2023-07-02 14:52:29] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede eliminar un odontologo con turno asignado
+[2023-07-03 13:58:22] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matrícula no puede ser 0 o negativa
+[2023-07-03 13:58:33] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matrícula no puede ser 0 o negativa
+[2023-07-03 13:58:37] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matricula es obligatoria
+[2023-07-03 13:58:42] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre es obligatorio
+[2023-07-03 13:58:46] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre debe tener entre 3 y 50 letras
+[2023-07-03 13:58:52] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre debe tener entre 3 y 50 letras
+[2023-07-03 13:58:58] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre no puede contener números ni caracteres especiales
+[2023-07-03 13:59:29] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un odontólogo con la misma matrícula
+[2023-07-03 13:59:38] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre es obligatorio
+[2023-07-03 14:00:41] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un odontólogo con la misma matrícula
+[2023-07-03 14:01:20] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre es obligatorio
+[2023-07-03 14:01:29] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre no puede contener números ni caracteres especiales
+[2023-07-03 14:01:40] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido es obligatorio
+[2023-07-03 14:01:51] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener solo números
+[2023-07-03 14:01:59] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-07-03 14:02:07] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La calle es obligatoria
+[2023-07-03 14:02:18] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nro de calle es obligatorio
+[2023-07-03 14:02:25] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La localidad es obligatoria
+[2023-07-03 14:02:42] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha de alta es obligatoria
+[2023-07-03 14:02:48] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha de alta debe ser igual o posterior a la fecha actual
+[2023-07-03 14:03:50] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-07-03 14:04:00] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un paciente con el mismo DNI
+[2023-07-03 14:04:13] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha de alta debe ser igual o posterior a la fecha actual
+[2023-07-03 14:04:22] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La calle es obligatoria
+[2023-07-03 14:04:29] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nro de calle es obligatorio
+[2023-07-03 14:04:35] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La localidad es obligatoria
+[2023-07-03 14:04:41] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La provincia es obligatoria
+[2023-07-03 14:04:54] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre es obligatorio
+[2023-07-03 14:05:00] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre debe tener entre 3 y 50 letras
+[2023-07-03 14:05:07] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre no puede contener números ni caracteres especiales
+[2023-07-03 14:05:19] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido es obligatorio
+[2023-07-03 14:05:26] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido no puede contener números ni caracteres especiales
+[2023-07-03 14:13:18] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Odontologo no encontrado
+[2023-07-03 14:13:26] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Odontologo no encontrado
+[2023-07-03 14:13:49] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el mismo dia
+[2023-07-03 14:13:56] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-03 14:14:04] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-03 14:14:10] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-03 14:14:21] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-03 14:15:09] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Paciente no encontrado
+[2023-07-03 14:15:25] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el fin de semana
+[2023-07-03 14:15:33] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede sacar un turno para el mismo dia
+[2023-07-03 14:15:44] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede eliminar un paciente con turno asignado
+[2023-07-03 14:15:54] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede eliminar un odontologo con turno asignado
+[2023-07-03 14:16:53] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->Odontologo no encontrado
+[2023-07-03 15:10:04] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matricula es obligatoria
+[2023-07-03 15:10:09] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matrícula no puede ser 0 o negativa
+[2023-07-03 15:10:20] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre es obligatorio
+[2023-07-03 15:10:27] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre no puede contener números ni caracteres especiales
+[2023-07-03 15:10:35] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre debe tener entre 3 y 50 letras
+[2023-07-03 15:10:50] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un odontólogo con la misma matrícula
+[2023-07-03 15:14:40] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un odontólogo con la misma matrícula
+[2023-07-03 15:22:20] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El ID del turno es obligatorio
+[2023-07-03 15:22:34] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha del turno no puede ser anterior a la fecha actual
+[2023-07-05 20:19:41] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matrícula no puede ser 0 o negativa
+[2023-07-05 20:19:52] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La matricula es obligatoria
+[2023-07-05 20:20:01] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre es obligatorio
+[2023-07-05 20:20:04] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre debe tener entre 3 y 50 letras
+[2023-07-05 20:20:10] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El nombre no puede contener números ni caracteres especiales
+[2023-07-05 20:20:17] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido es obligatorio
+[2023-07-05 20:20:28] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido debe tener entre 3 y 50 letras
+[2023-07-05 20:20:33] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido no puede contener números ni caracteres especiales
+[2023-07-05 20:20:53] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Ya existe un odontólogo con la misma matrícula
+[2023-07-05 20:21:13] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido es obligatorio
+[2023-07-05 20:21:18] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El apellido debe tener entre 3 y 50 letras
+[2023-07-05 20:27:35] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha de alta debe ser igual o posterior a la fecha actual
+[2023-07-05 20:28:02] [ERROR] [GlobalExceptionHandler:26] mensaje de error de ResourceNotFoundException -->No se encontró un odontólogo con el ID: 1
+[2023-07-05 20:28:18] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No puede incluir el ID. Se genera automáticamente
+[2023-07-05 20:28:37] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->Solo se pueden sacar turnos entre las 8am y las 17pm
+[2023-07-05 20:29:14] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede eliminar un odontologo con turno asignado
+[2023-07-05 20:29:20] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede eliminar un paciente con turno asignado
+[2023-07-05 20:30:06] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El ID del domicilio es obligatorio
+[2023-07-05 20:31:07] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La fecha de alta debe ser igual o posterior a la fecha actual
+[2023-07-05 20:32:27] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El DNI es obligatorio
+[2023-07-05 20:32:38] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->El campo dni debe contener 8 cifras
+[2023-07-05 20:40:45] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->No se puede eliminar un paciente con turno asignado
+[2023-07-05 20:40:56] [ERROR] [GlobalExceptionHandler:18] mensaje de error de BadRequestException -->La provincia es obligatoria
